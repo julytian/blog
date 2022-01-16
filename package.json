@@ -1,16 +1,14 @@
 {
-  "name": "nobelium",
-  "version": "1.3.0",
-  "homepage": "https://nobelium.js.org",
+  "name": "julytian",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/craigary/nobelium.git"
+    "url": "https://github.com/julytian/blog.git"
   },
   "author": {
-    "name": "Craig Hart",
-    "email": "i@craigary.net",
-    "url": "http://craigary.net"
+    "name": "julytian",
+    "email": "992113471@qq.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -48,9 +46,5 @@
   },
   "resolutions": {
     "axios": ">=0.21.1"
-  },
-  "bugs": {
-    "url": "https://github.com/craigary/nobelium/issues",
-    "email": "i@craigary.net"
   }
 }
